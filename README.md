@@ -8,6 +8,7 @@ Système de supervision réseau distribué permettant de surveiller l'état de p
 
 # 1. Cloner le projet
 git clone https://github.com/Abdouazizciss/SupervisionReseau.git
+
 cd SupervisionReseau
 
 # 2. Créer l'environnement virtuel
