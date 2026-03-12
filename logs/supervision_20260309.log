@@ -1,0 +1,6 @@
+[2026-03-09 00:31:29] [ERROR] ❌ Erreur création pool MySQL: 2003: Can't connect to MySQL server on 'localhost:3306' (Errno 10061: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée)
+[2026-03-09 00:31:29] [ERROR] ❌ Erreur d'initialisation DatabaseManager: 2003: Can't connect to MySQL server on 'localhost:3306' (Errno 10061: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée)
+[2026-03-09 12:01:15] [ERROR] ❌ Erreur création pool MySQL: 2003: Can't connect to MySQL server on 'localhost:3306' (Errno 10061: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée)
+[2026-03-09 12:01:15] [ERROR] ❌ Erreur d'initialisation DatabaseManager: 2003: Can't connect to MySQL server on 'localhost:3306' (Errno 10061: Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée)
+[2026-03-09 23:46:18] [ERROR] ❌ Erreur création pool MySQL: 1698 (28000): Access denied for user 'supervision_app'@'localhost'
+[2026-03-09 23:46:18] [ERROR] ❌ Erreur d'initialisation DatabaseManager: 1698 (28000): Access denied for user 'supervision_app'@'localhost'

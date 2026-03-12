@@ -1,0 +1,8 @@
+# Ce fichier est généré automatiquement par le système
+# Il contiendra les logs comme ceci :
+
+[2024-01-15 10:30:00] [INFO] 🚀 Serveur de supervision démarré sur le port 8888
+[2024-01-15 10:30:05] [INFO] ✅ Connexion à la base de données établie
+[2024-01-15 10:30:30] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 54321)
+[2024-01-15 10:30:31] [INFO] ✅ Nouveau nœud enregistré: serveur1
+[2024-01-15 10:31:00] [WARNING] 🚨 ALERTE: CPU > 90% sur serveur2: 95.2%

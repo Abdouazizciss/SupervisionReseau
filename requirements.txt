@@ -1,0 +1,45 @@
+# ============================================
+# DÉPENDANCES PYTHON
+# Système de Supervision Réseau
+# ============================================
+
+# Base de données
+mysql-connector-python==8.0.33
+pymysql==1.0.2
+sqlalchemy==2.0.23
+
+# Configuration
+configparser==5.3.0
+python-dotenv==1.0.0
+
+# Collecte de métriques système (optionnel)
+psutil==5.9.5
+
+# Interface en ligne de commande (optionnel)
+colorama==0.4.6
+tabulate==0.9.0
+
+# Sérialisation (optionnel - pour meilleure perf)
+ujson==5.7.0
+orjson==3.9.0
+
+# Logging avancé
+loguru==0.7.2
+
+# Tests (optionnel)
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Documentation
+sphinx==7.1.2
+
+# Pour le monitoring HTTP (optionnel)
+requests==2.31.0
+aiohttp==3.8.5
+
+# Pour les alertes par email
+smtplib  # inclus dans Python standard
+
+# Pour les graphiques (optionnel)
+matplotlib==3.7.2
+plotly==5.15.0

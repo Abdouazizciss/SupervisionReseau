@@ -1,0 +1,331 @@
+[2026-03-12 00:21:30] [INFO] ✅ Pool de connexions initialisé: supervision_pool (taille: 10)
+[2026-03-12 00:21:30] [INFO] ✅ Pool de connexions initialisé: supervision_pool (taille: 10)
+[2026-03-12 00:21:30] [INFO] ✅ DatabaseManager initialisé
+[2026-03-12 00:21:30] [INFO] ✅ DatabaseManager initialisé
+[2026-03-12 00:21:30] [ERROR] ❌ Erreur SQL: Unread result found
+[2026-03-12 00:21:30] [ERROR] ❌ Erreur SQL: Unread result found
+[2026-03-12 00:21:30] [ERROR]    Requête: SHOW TABLES
+[2026-03-12 00:21:30] [ERROR]    Requête: SHOW TABLES
+[2026-03-12 00:21:30] [ERROR] ❌ Erreur vérification tables: Unread result found
+[2026-03-12 00:21:30] [ERROR] ❌ Erreur vérification tables: Unread result found
+[2026-03-12 00:21:30] [INFO] ✅ Connexion à la base de données établie
+[2026-03-12 00:21:30] [INFO] ✅ Connexion à la base de données établie
+[2026-03-12 00:21:30] [INFO] ⚙️  Création d'un ThreadPoolExecutor de taille: 4
+[2026-03-12 00:21:30] [INFO] ⚙️  Création d'un ThreadPoolExecutor de taille: 4
+[2026-03-12 00:21:30] [INFO] 🚀 Serveur de supervision démarré sur le port 8888
+[2026-03-12 00:21:30] [INFO] 🚀 Serveur de supervision démarré sur le port 8888
+[2026-03-12 00:21:30] [INFO] 📅 Date de démarrage: 2026-03-12 00:21:29
+[2026-03-12 00:21:30] [INFO] 📅 Date de démarrage: 2026-03-12 00:21:29
+[2026-03-12 00:21:30] [INFO] 👂 En attente de connexions...
+[2026-03-12 00:21:30] [INFO] 👂 En attente de connexions...
+[2026-03-12 00:23:56] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 40714)
+[2026-03-12 00:23:56] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 40714)
+[2026-03-12 00:23:56] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 40714)
+[2026-03-12 00:23:56] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 40714)
+[2026-03-12 00:23:56] [DEBUG] 📨 Message reçu de serveur1: INIT
+[2026-03-12 00:23:56] [DEBUG] 📨 Message reçu de serveur1: INIT
+[2026-03-12 00:23:56] [DEBUG] 📝 Nœud enregistré: serveur1
+[2026-03-12 00:23:56] [DEBUG] 📝 Nœud enregistré: serveur1
+[2026-03-12 00:23:56] [INFO] 📝 Client enregistré: serveur1 (total: 1)
+[2026-03-12 00:23:56] [INFO] 📝 Client enregistré: serveur1 (total: 1)
+[2026-03-12 00:23:56] [INFO] ✅ Nouveau nœud enregistré: serveur1 depuis ('127.0.0.1', 40714)
+[2026-03-12 00:23:56] [INFO] ✅ Nouveau nœud enregistré: serveur1 depuis ('127.0.0.1', 40714)
+[2026-03-12 00:23:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:23:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:24:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:24:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:24:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:24:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:25:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:25:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:25:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:25:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:26:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:26:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:26:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:26:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:27:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:27:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:27:54] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 40160)
+[2026-03-12 00:27:54] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 40160)
+[2026-03-12 00:27:54] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 40160)
+[2026-03-12 00:27:54] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 40160)
+[2026-03-12 00:27:54] [DEBUG] 📨 Message reçu de serveur1: INIT
+[2026-03-12 00:27:54] [DEBUG] 📨 Message reçu de serveur1: INIT
+[2026-03-12 00:27:54] [DEBUG] 📝 Nœud enregistré: serveur1
+[2026-03-12 00:27:54] [DEBUG] 📝 Nœud enregistré: serveur1
+[2026-03-12 00:27:54] [INFO] 📝 Client enregistré: serveur1 (total: 1)
+[2026-03-12 00:27:54] [INFO] 📝 Client enregistré: serveur1 (total: 1)
+[2026-03-12 00:27:54] [INFO] ✅ Nouveau nœud enregistré: serveur1 depuis ('127.0.0.1', 40160)
+[2026-03-12 00:27:54] [INFO] ✅ Nouveau nœud enregistré: serveur1 depuis ('127.0.0.1', 40160)
+[2026-03-12 00:27:54] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:27:54] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:27:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:27:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:27:58] [INFO] 🗑️ Client retiré: serveur1 (total: 0)
+[2026-03-12 00:27:58] [INFO] 🗑️ Client retiré: serveur1 (total: 0)
+[2026-03-12 00:27:58] [INFO] 👋 Client déconnecté: serveur1
+[2026-03-12 00:27:58] [INFO] 👋 Client déconnecté: serveur1
+[2026-03-12 00:28:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:28:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:28:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:28:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:29:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:29:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:29:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:29:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:30:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:30:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:30:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:30:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:31:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:31:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:31:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:31:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:32:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:32:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:32:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:32:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:33:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:33:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:33:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:33:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:34:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:34:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:34:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:34:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:35:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:35:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:35:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:35:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:36:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:36:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:36:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:36:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:37:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:37:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:37:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:37:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:38:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:38:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:38:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:38:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:39:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:39:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:39:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:39:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:40:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:40:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:40:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:40:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:41:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:41:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:41:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:41:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:42:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:42:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:42:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:42:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:43:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:43:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:43:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:43:56] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:44:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:44:26] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:44:27] [INFO] 👋 Client déconnecté: serveur1
+[2026-03-12 00:44:27] [INFO] 👋 Client déconnecté: serveur1
+[2026-03-12 00:44:27] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 40732)
+[2026-03-12 00:44:27] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 40732)
+[2026-03-12 00:44:27] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 40732)
+[2026-03-12 00:44:27] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 40732)
+[2026-03-12 00:44:27] [DEBUG] 📨 Message reçu de serveur1: INIT
+[2026-03-12 00:44:27] [DEBUG] 📨 Message reçu de serveur1: INIT
+[2026-03-12 00:44:27] [DEBUG] 📝 Nœud enregistré: serveur1
+[2026-03-12 00:44:27] [DEBUG] 📝 Nœud enregistré: serveur1
+[2026-03-12 00:44:27] [INFO] 📝 Client enregistré: serveur1 (total: 1)
+[2026-03-12 00:44:27] [INFO] 📝 Client enregistré: serveur1 (total: 1)
+[2026-03-12 00:44:27] [INFO] ✅ Nouveau nœud enregistré: serveur1 depuis ('127.0.0.1', 40732)
+[2026-03-12 00:44:27] [INFO] ✅ Nouveau nœud enregistré: serveur1 depuis ('127.0.0.1', 40732)
+[2026-03-12 00:44:27] [DEBUG] 📨 Message reçu de serveur1: STATUS
+[2026-03-12 00:44:27] [DEBUG] 📨 Message reçu de serveur1: STATUS
+[2026-03-12 00:44:27] [DEBUG] Statut reçu de serveur1: {'status': 'OK'}
+[2026-03-12 00:44:27] [DEBUG] Statut reçu de serveur1: {'status': 'OK'}
+[2026-03-12 00:45:07] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:45:07] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:45:37] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:45:37] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:46:07] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:46:07] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:46:37] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:46:37] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:47:07] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:47:07] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:47:37] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:47:37] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:48:07] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:48:07] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:48:37] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:48:37] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:54:12] [INFO] ✅ Pool de connexions initialisé: supervision_pool (taille: 10)
+[2026-03-12 00:54:12] [INFO] ✅ Pool de connexions initialisé: supervision_pool (taille: 10)
+[2026-03-12 00:54:12] [INFO] ✅ DatabaseManager initialisé
+[2026-03-12 00:54:12] [INFO] ✅ DatabaseManager initialisé
+[2026-03-12 00:54:12] [ERROR] ❌ Erreur SQL: Unread result found
+[2026-03-12 00:54:12] [ERROR] ❌ Erreur SQL: Unread result found
+[2026-03-12 00:54:12] [ERROR]    Requête: SHOW TABLES
+[2026-03-12 00:54:12] [ERROR]    Requête: SHOW TABLES
+[2026-03-12 00:54:12] [ERROR] ❌ Erreur vérification tables: Unread result found
+[2026-03-12 00:54:12] [ERROR] ❌ Erreur vérification tables: Unread result found
+[2026-03-12 00:54:12] [INFO] ✅ Connexion à la base de données établie
+[2026-03-12 00:54:12] [INFO] ✅ Connexion à la base de données établie
+[2026-03-12 00:54:12] [INFO] ⚙️  Création d'un ThreadPoolExecutor de taille: 4
+[2026-03-12 00:54:12] [INFO] ⚙️  Création d'un ThreadPoolExecutor de taille: 4
+[2026-03-12 00:54:12] [INFO] 🚀 Serveur de supervision démarré sur le port 8888
+[2026-03-12 00:54:12] [INFO] 🚀 Serveur de supervision démarré sur le port 8888
+[2026-03-12 00:54:12] [INFO] 📅 Date de démarrage: 2026-03-12 00:54:12
+[2026-03-12 00:54:12] [INFO] 📅 Date de démarrage: 2026-03-12 00:54:12
+[2026-03-12 00:54:12] [INFO] 👂 En attente de connexions...
+[2026-03-12 00:54:12] [INFO] 👂 En attente de connexions...
+[2026-03-12 00:58:20] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 47736)
+[2026-03-12 00:58:20] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 47736)
+[2026-03-12 00:58:20] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 47736)
+[2026-03-12 00:58:20] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 47736)
+[2026-03-12 00:58:20] [DEBUG] 📨 Message reçu de serveur1: INIT
+[2026-03-12 00:58:20] [DEBUG] 📨 Message reçu de serveur1: INIT
+[2026-03-12 00:58:20] [DEBUG] 📝 Nœud enregistré: serveur1
+[2026-03-12 00:58:20] [DEBUG] 📝 Nœud enregistré: serveur1
+[2026-03-12 00:58:20] [INFO] 📝 Client enregistré: serveur1 (total: 1)
+[2026-03-12 00:58:20] [INFO] 📝 Client enregistré: serveur1 (total: 1)
+[2026-03-12 00:58:20] [INFO] ✅ Nouveau nœud enregistré: serveur1 depuis ('127.0.0.1', 47736)
+[2026-03-12 00:58:20] [INFO] ✅ Nouveau nœud enregistré: serveur1 depuis ('127.0.0.1', 47736)
+[2026-03-12 00:58:20] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:58:20] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:58:50] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:58:50] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:59:20] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:59:20] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:59:50] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 00:59:50] [DEBUG] 📨 Message reçu de serveur1: METRICS
+[2026-03-12 01:00:08] [INFO] 🛑 Arrêt du serveur...
+[2026-03-12 01:00:08] [INFO] 🛑 Arrêt du serveur...
+[2026-03-12 01:00:10] [INFO] 🛑 Arrêt du serveur...
+[2026-03-12 01:00:10] [INFO] 🛑 Arrêt du serveur...
+[2026-03-12 01:00:20] [ERROR] Erreur avec le client serveur1: [Errno 9] Bad file descriptor
+[2026-03-12 01:00:20] [ERROR] Erreur avec le client serveur1: [Errno 9] Bad file descriptor
+[2026-03-12 01:06:41] [INFO] 🗑️ Client retiré: serveur1 (total: 0)
+[2026-03-12 01:06:41] [INFO] 🗑️ Client retiré: serveur1 (total: 0)
+[2026-03-12 01:06:41] [INFO] 👋 Client déconnecté: serveur1
+[2026-03-12 01:06:50] [INFO] ✅ Pool de connexions initialisé: supervision_pool (taille: 10)
+[2026-03-12 01:06:50] [INFO] ✅ Pool de connexions initialisé: supervision_pool (taille: 10)
+[2026-03-12 01:06:50] [INFO] ✅ DatabaseManager initialisé
+[2026-03-12 01:06:50] [INFO] ✅ DatabaseManager initialisé
+[2026-03-12 01:06:50] [ERROR] ❌ Erreur SQL: Unread result found
+[2026-03-12 01:06:50] [ERROR] ❌ Erreur SQL: Unread result found
+[2026-03-12 01:06:50] [ERROR]    Requête: SHOW TABLES
+[2026-03-12 01:06:50] [ERROR]    Requête: SHOW TABLES
+[2026-03-12 01:06:50] [ERROR] ❌ Erreur vérification tables: Unread result found
+[2026-03-12 01:06:50] [ERROR] ❌ Erreur vérification tables: Unread result found
+[2026-03-12 01:06:50] [INFO] ✅ Connexion à la base de données établie
+[2026-03-12 01:06:50] [INFO] ✅ Connexion à la base de données établie
+[2026-03-12 01:06:50] [INFO] ⚙️  Création d'un ThreadPoolExecutor de taille: 4
+[2026-03-12 01:06:50] [INFO] ⚙️  Création d'un ThreadPoolExecutor de taille: 4
+[2026-03-12 01:06:50] [INFO] 🚀 Serveur de supervision démarré sur le port 8888
+[2026-03-12 01:06:50] [INFO] 🚀 Serveur de supervision démarré sur le port 8888
+[2026-03-12 01:06:50] [INFO] 📅 Date de démarrage: 2026-03-12 01:06:50
+[2026-03-12 01:06:50] [INFO] 📅 Date de démarrage: 2026-03-12 01:06:50
+[2026-03-12 01:06:50] [INFO] 👂 En attente de connexions...
+[2026-03-12 01:06:50] [INFO] 👂 En attente de connexions...
+[2026-03-12 01:07:09] [INFO] 🛑 Arrêt du serveur...
+[2026-03-12 01:07:09] [INFO] 🛑 Arrêt du serveur...
+[2026-03-12 01:07:09] [INFO] 🔄 Fermeture du DatabaseManager...
+[2026-03-12 01:07:09] [INFO] 🔄 Fermeture du DatabaseManager...
+[2026-03-12 01:07:09] [INFO] 🔄 Fermeture du pool de connexions...
+[2026-03-12 01:07:09] [INFO] 🔄 Fermeture du pool de connexions...
+[2026-03-12 01:07:09] [INFO] ✅ Pool fermé - Statistiques finales: {'connexions_crees': 1, 'connexions_utilisees': 1, 'connexions_rendues': 0, 'connexions_fermees': 0, 'temps_attente_total': 0, 'nb_attentes': 0, 'taux_utilisation': 100.0, 'temps_moyen_attente': 0}
+[2026-03-12 01:07:09] [INFO] ✅ Pool fermé - Statistiques finales: {'connexions_crees': 1, 'connexions_utilisees': 1, 'connexions_rendues': 0, 'connexions_fermees': 0, 'temps_attente_total': 0, 'nb_attentes': 0, 'taux_utilisation': 100.0, 'temps_moyen_attente': 0}
+[2026-03-12 01:07:09] [INFO] ✅ DatabaseManager fermé
+[2026-03-12 01:07:09] [INFO] ✅ DatabaseManager fermé
+[2026-03-12 01:07:09] [INFO] 👋 Serveur arrêté
+[2026-03-12 01:07:09] [INFO] 👋 Serveur arrêté
+[2026-03-12 01:07:09] [INFO] 🛑 Arrêt du serveur...
+[2026-03-12 01:07:09] [INFO] 🛑 Arrêt du serveur...
+[2026-03-12 01:07:09] [INFO] 🔄 Fermeture du DatabaseManager...
+[2026-03-12 01:07:09] [INFO] 🔄 Fermeture du DatabaseManager...
+[2026-03-12 01:07:09] [INFO] 🔄 Fermeture du pool de connexions...
+[2026-03-12 01:07:09] [INFO] 🔄 Fermeture du pool de connexions...
+[2026-03-12 01:07:09] [INFO] ✅ Pool fermé - Statistiques finales: {'connexions_crees': 1, 'connexions_utilisees': 1, 'connexions_rendues': 0, 'connexions_fermees': 0, 'temps_attente_total': 0, 'nb_attentes': 0, 'taux_utilisation': 100.0, 'temps_moyen_attente': 0}
+[2026-03-12 01:07:09] [INFO] ✅ Pool fermé - Statistiques finales: {'connexions_crees': 1, 'connexions_utilisees': 1, 'connexions_rendues': 0, 'connexions_fermees': 0, 'temps_attente_total': 0, 'nb_attentes': 0, 'taux_utilisation': 100.0, 'temps_moyen_attente': 0}
+[2026-03-12 01:07:09] [INFO] ✅ DatabaseManager fermé
+[2026-03-12 01:07:09] [INFO] ✅ DatabaseManager fermé
+[2026-03-12 01:07:09] [INFO] 👋 Serveur arrêté
+[2026-03-12 01:07:09] [INFO] 👋 Serveur arrêté
+[2026-03-12 01:07:18] [INFO] ✅ Pool de connexions initialisé: supervision_pool (taille: 10)
+[2026-03-12 01:07:18] [INFO] ✅ Pool de connexions initialisé: supervision_pool (taille: 10)
+[2026-03-12 01:07:18] [INFO] ✅ DatabaseManager initialisé
+[2026-03-12 01:07:18] [INFO] ✅ DatabaseManager initialisé
+[2026-03-12 01:07:18] [ERROR] ❌ Erreur SQL: Unread result found
+[2026-03-12 01:07:18] [ERROR] ❌ Erreur SQL: Unread result found
+[2026-03-12 01:07:18] [ERROR]    Requête: SHOW TABLES
+[2026-03-12 01:07:18] [ERROR]    Requête: SHOW TABLES
+[2026-03-12 01:07:18] [ERROR] ❌ Erreur vérification tables: Unread result found
+[2026-03-12 01:07:18] [ERROR] ❌ Erreur vérification tables: Unread result found
+[2026-03-12 01:07:18] [INFO] ✅ Connexion à la base de données établie
+[2026-03-12 01:07:18] [INFO] ✅ Connexion à la base de données établie
+[2026-03-12 01:07:18] [INFO] ⚙️  Création d'un ThreadPoolExecutor de taille: 4
+[2026-03-12 01:07:18] [INFO] ⚙️  Création d'un ThreadPoolExecutor de taille: 4
+[2026-03-12 01:07:18] [INFO] 🚀 Serveur de supervision démarré sur le port 8888
+[2026-03-12 01:07:18] [INFO] 🚀 Serveur de supervision démarré sur le port 8888
+[2026-03-12 01:07:18] [INFO] 📅 Date de démarrage: 2026-03-12 01:07:18
+[2026-03-12 01:07:18] [INFO] 📅 Date de démarrage: 2026-03-12 01:07:18
+[2026-03-12 01:07:18] [INFO] 👂 En attente de connexions...
+[2026-03-12 01:07:18] [INFO] 👂 En attente de connexions...
+[2026-03-12 01:07:46] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 36422)
+[2026-03-12 01:07:46] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 36422)
+[2026-03-12 01:07:46] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 36422)
+[2026-03-12 01:07:46] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 36422)
+[2026-03-12 01:07:46] [DEBUG] 📨 Message reçu de serveur2: INIT
+[2026-03-12 01:07:46] [DEBUG] 📨 Message reçu de serveur2: INIT
+[2026-03-12 01:07:46] [DEBUG] 📝 Nœud enregistré: serveur2
+[2026-03-12 01:07:46] [DEBUG] 📝 Nœud enregistré: serveur2
+[2026-03-12 01:07:46] [INFO] 📝 Client enregistré: serveur2 (total: 1)
+[2026-03-12 01:07:46] [INFO] 📝 Client enregistré: serveur2 (total: 1)
+[2026-03-12 01:07:46] [INFO] ✅ Nouveau nœud enregistré: serveur2 depuis ('127.0.0.1', 36422)
+[2026-03-12 01:07:46] [INFO] ✅ Nouveau nœud enregistré: serveur2 depuis ('127.0.0.1', 36422)
+[2026-03-12 01:07:46] [DEBUG] 📨 Message reçu de serveur2: METRICS
+[2026-03-12 01:07:46] [DEBUG] 📨 Message reçu de serveur2: METRICS
+[2026-03-12 01:08:16] [DEBUG] 📨 Message reçu de serveur2: METRICS
+[2026-03-12 01:08:16] [DEBUG] 📨 Message reçu de serveur2: METRICS
+[2026-03-12 01:08:38] [INFO] 🗑️ Client retiré: serveur2 (total: 0)
+[2026-03-12 01:08:38] [INFO] 🗑️ Client retiré: serveur2 (total: 0)
+[2026-03-12 01:08:38] [INFO] 👋 Client déconnecté: serveur2
+[2026-03-12 01:08:38] [INFO] 👋 Client déconnecté: serveur2
+[2026-03-12 01:08:53] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 53796)
+[2026-03-12 01:08:53] [INFO] 📞 Nouvelle connexion de ('127.0.0.1', 53796)
+[2026-03-12 01:08:53] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 53796)
+[2026-03-12 01:08:53] [INFO] 👤 Nouveau client connecté: ('127.0.0.1', 53796)
+[2026-03-12 01:08:53] [DEBUG] 📨 Message reçu de serveur3: INIT
+[2026-03-12 01:08:53] [DEBUG] 📨 Message reçu de serveur3: INIT
+[2026-03-12 01:08:53] [DEBUG] 📝 Nœud enregistré: serveur3
+[2026-03-12 01:08:53] [DEBUG] 📝 Nœud enregistré: serveur3
+[2026-03-12 01:08:53] [INFO] 📝 Client enregistré: serveur3 (total: 1)
+[2026-03-12 01:08:53] [INFO] 📝 Client enregistré: serveur3 (total: 1)
+[2026-03-12 01:08:53] [INFO] ✅ Nouveau nœud enregistré: serveur3 depuis ('127.0.0.1', 53796)
+[2026-03-12 01:08:53] [INFO] ✅ Nouveau nœud enregistré: serveur3 depuis ('127.0.0.1', 53796)
+[2026-03-12 01:08:53] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:08:53] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:09:23] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:09:23] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:09:53] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:09:53] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:10:23] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:10:23] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:10:53] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:10:53] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:11:23] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:11:23] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:11:53] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:11:53] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:12:23] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:12:23] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:12:53] [DEBUG] 📨 Message reçu de serveur3: METRICS
+[2026-03-12 01:12:53] [DEBUG] 📨 Message reçu de serveur3: METRICS

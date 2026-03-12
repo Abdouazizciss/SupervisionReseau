@@ -1,0 +1,76 @@
+; ============================================
+; FICHIER DE CONFIGURATION
+; Système de Supervision Réseau
+; ============================================
+
+[RESEAU]
+; Configuration réseau du serveur
+port_serveur = 8888
+timeout_connexion = 30
+delai_panne = 90
+frequence_envoi = 30
+
+[BASE_DE_DONNEES]
+; Configuration de la base de données MySQL
+host = localhost
+port = 3306
+user = supervision_app
+password = supervision123
+database = supervision_reseau
+pool_size = 10
+max_pool_size = 20
+
+[SEUILS]
+; Seuils d'alerte (en pourcentage)
+cpu_max = 90
+memoire_max = 90
+disque_max = 90
+
+[SERVICES]
+; Services à surveiller (séparés par des virgules)
+services_reseau = HTTP, HTTPS, SSH, FTP, DNS, SMTP
+services_application = FIREFOX, CHROME, VSCODE, PYTHON, JAVA, NODE
+ports = 80, 443, 22, 21, 53, 25, 3306, 5432, 27017
+
+[LOGS]
+; Configuration des logs
+niveau_log = INFO
+fichier_log = supervision.log
+dossier_logs = logs
+conservation_jours = 30
+
+[ALERTES]
+; Configuration des alertes
+email_alertes = admin@example.com
+webhook_url = http://localhost:8080/webhook
+slack_webhook = https://hooks.slack.com/services/xxx/yyy/zzz
+
+[CLIENT]
+; Configuration par défaut du client
+mode_defaut = simulation
+reconnexion_auto = true
+tentatives_reconnexion = 5
+intervalle_reconnexion = 5
+
+[SERVEUR]
+; Configuration du serveur
+threads_pool = auto
+max_clients = 100
+verification_panne_intervalle = 30
+nettoyage_donnees_jours = 30
+
+[SECURITE]
+; Configuration sécurité
+ssl_active = false
+certificat_path = certs/server.crt
+cle_privee_path = certs/server.key
+token_auth = false
+token_secret = votre_token_secret_ici
+
+[PERFORMANCE]
+; Optimisations performance
+compression = false
+cache_active = true
+cache_taille_max = 100
+batch_insert = true
+batch_taille = 50
