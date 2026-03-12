@@ -20,7 +20,9 @@ pip install -r requirements.txt
 
 # 4. Installer MySQL/MariaDB
 sudo apt update
+
 sudo apt install mariadb-server -y
+
 sudo systemctl start mariadb
 
 # 5. Créer la base de données
