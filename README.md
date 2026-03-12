@@ -35,6 +35,9 @@ ppython -m src.client.agent_supervision serveur1 localhost
 # Lancer un deuxième client (terminal 3)
 python -m src.client.agent_supervision serveur2 localhost
 
+# Lancer des clients de test automatiques
+python run.py test --clients 10
+
 # Voir les métriques dans la base de données
 mysql -u supervision_app -p -e "USE supervision_reseau; SELECT * FROM metriques ORDER BY horodatage DESC LIMIT 5;"
 # Mot de passe: supervision123
